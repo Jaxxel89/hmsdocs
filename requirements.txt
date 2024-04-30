@@ -51,6 +51,7 @@ paramiko==2.9.3
 pathspec==0.12.1
 pexpect==4.8.0
 Pillow==9.0.1
+pip
 platformdirs==4.2.1
 protobuf==3.12.4
 ptyprocess==0.7.0
